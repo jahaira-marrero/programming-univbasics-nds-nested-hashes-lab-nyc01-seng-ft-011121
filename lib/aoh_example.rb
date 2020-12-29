@@ -17,6 +17,7 @@ def assembled_aoh
     :BRUCE_G =>{ name:  "Bruce Green", occupation: "Fan of Mildred" }
     }
     ]
+    assembled_aoh.sort
 end
 
 def literal_aoh
