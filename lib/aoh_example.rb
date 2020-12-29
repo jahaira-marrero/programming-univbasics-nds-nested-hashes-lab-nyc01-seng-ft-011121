@@ -16,7 +16,7 @@ def assembled_aoh
    "#{KATE_G}", 
    "#{BRUCE_G}"
    ]
-   p assembled_aoh
+   puts assembled_aoh
 end
 
 # def literal_aoh
